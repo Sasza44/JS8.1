@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(217, 168, 236);
+}
+.add_div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: orange;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px 10px 5px 10px;
+}
+.new_div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-weight: 300;
+    background-color: rgb(25, 212, 119);
+    text-align: center;
+    border-width: 0px;
+    border-style: solid;
+    padding: 5px 10px 5px 10px;
+    width: 300px;
+}
